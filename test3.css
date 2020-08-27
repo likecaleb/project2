@@ -16,7 +16,7 @@ body{
     font-weight: bolder;
     font-family: 'Jua', sans-serif;
     margin: 50px;
-    margin-top: 500px;
+    margin-top: 200px;
 }
 
 #end{
@@ -64,7 +64,7 @@ input[type=radio]:checked ~ label{
         font-weight: bolder;
         font-family: 'Jua', sans-serif;
         margin: 50px;
-        margin-top: 500px;
+        margin-top: 300px;
     }
     
     #end{
