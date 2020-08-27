@@ -32,7 +32,7 @@ input[type=radio] + label{
     display:inline-block;
     margin:2px;
     padding:30px 10px;
-    background-color: lavender;
+    background-color: antiquewhite;
     border: 1px solid !important;
     border-radius: 0.5em;
     width:500px;
@@ -41,7 +41,7 @@ input[type=radio] + label{
 }
 
 input[type=radio]:checked ~ label{    
-    background-color:lightsteelblue;
+    background-color:burlywood;
 }
 }
 
@@ -80,7 +80,7 @@ input[type=radio]:checked ~ label{
         display:inline-block;
         margin:2px;
         padding:30px 30px;
-        background-color: lavender;
+        background-color: antiquewhite;
         border: 1px solid !important;
         border-radius: 0.5em;
         width:800px;
@@ -89,7 +89,7 @@ input[type=radio]:checked ~ label{
     }
     
     input[type=radio]:checked ~ label{    
-        background-color:lightsteelblue;
+        background-color:burlywood;
     }
 
 }
